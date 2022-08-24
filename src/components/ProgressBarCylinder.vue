@@ -73,7 +73,7 @@
         :x="horizontalTextAlignP"
         :y="verticalTextAlignP"
       >
-        {{ value }}%
+        {{ value }}
       </text>
     </svg>
   </div>
